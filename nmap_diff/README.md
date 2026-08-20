@@ -124,4 +124,3 @@ box:
 
 Multi-row-per-host exports (one row per port) are merged into a single host
 entry automatically.
-```
