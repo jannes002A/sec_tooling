@@ -1,0 +1,7 @@
+# Ignore all .csv files
+*.csv
+
+# Ignore all .nmap files
+*.nmap
+
+/nmaptocsv
